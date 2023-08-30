@@ -1,4 +1,4 @@
 #!/bin/bash
-mkdir /tmp/my_first_directory/
+mk /tmp/my_first_directory/
 
 
